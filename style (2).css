@@ -1,0 +1,21 @@
+.body_background {
+    background-image:
+      url("https://dtcav3spwxv07.cloudfront.net/wallpaper/1633427460744136693_Copy_of_underewater_world_bg.png");
+    background-position:center;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: black;
+    font-size: 40px;
+  }
+  
+  #myCanvas {
+    border-width: 10px;
+    background-color: #FFFDE7;
+    border-style: ridge;
+  }
+  
+  span {
+    font-size: 20px;
+  }
